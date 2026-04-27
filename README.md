@@ -133,7 +133,8 @@ PORT      SERVICE         STATE   DESCRIPTION
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rohan-kumar-912b792a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+[![LinkedIn](https://img.shields.io /badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-kumar-912b792a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohankumar802203@gmail.com)
 
 
