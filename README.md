@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - 🔐 Cybersecurity Enthusiast & Ethical Hacker  
-- 💻 Programmer (Java, C, C++)  
+- 💻 Programmer (Java, C, C++, Python, SQL, DBMS, Js, Php, etc..)  
 - 🎓 Student (Computer Applications)  
 - 🧠 Interested in Secure Coding & Vulnerability Analysis  
 - 🎯 Goal: Become a Security Engineer / Ethical Hacker  
@@ -24,6 +24,13 @@
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![DBMS](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Js](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![Php](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![etc...](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+
 
 ---
 
